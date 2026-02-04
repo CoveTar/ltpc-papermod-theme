@@ -1,3 +1,3 @@
-module github.com/adityatelange/ltpc-papermod-theme
+module github.com/CoveTar/ltpc-papermod-theme
 
 go 1.12
